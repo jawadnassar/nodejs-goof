@@ -1,6 +1,6 @@
 name: BSides Montreal 2023
 
-on: workflow_dispatch
+on: push
 
 jobs:
   hello-world: 
